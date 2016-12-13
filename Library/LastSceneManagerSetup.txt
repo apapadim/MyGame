@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MyButterfly.unity
+  isLoaded: 1
+  isActive: 1
